@@ -1,31 +1,44 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: xnaas
+repo: bibliogram-instances
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: bibliogram.art
+    url: https://bibliogram.art
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/it.png
+  - name: bibliogram.snopyta.org
+    url: https://bibliogram.snopyta.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
+  - name: bibliogram.pussthecat.org
+    url: https://bibliogram.pussthecat.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: bibliogram.1d4.us
+    url: https://bibliogram.1d4.us
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: insta.trom.tf
+    url: https://insta.trom.tf
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: bibliogram.hamster.dance
+    url: https://bibliogram.hamster.dance
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: bib.actionsack.com
+    url: https://bib.actionsack.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us-tx.png
+  - name: biblio.alefvanoon.xyz
+    url: https://biblio.alefvanoon.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /bibliogram-instances
+  logoUrl: https://raw.githubusercontent.com/xnaas/docker-bibliogram/master/src/site/html/favicon-32x32.png
+  name: Bibliogram Instances
+  introTitle: "Bibliogram Instances Uptime"
+  introMessage: This status page monitors [Bibliogram instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) for uptime.
   navbar:
     - title: Status
-      href: /
+      href: /bibliogram-instances
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  theme: dark
