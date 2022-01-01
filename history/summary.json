@@ -22,19 +22,19 @@
     "url": "https://bibliogram.snopyta.org",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png",
     "slug": "bibliogram-snopyta-org",
-    "status": "down",
-    "uptime": "89.30%",
-    "uptimeDay": "86.50%",
-    "uptimeWeek": "89.30%",
-    "uptimeMonth": "89.30%",
-    "uptimeYear": "89.30%",
-    "time": 1169,
-    "timeDay": 1060,
-    "timeWeek": 1169,
-    "timeMonth": 1169,
-    "timeYear": 1169,
+    "status": "up",
+    "uptime": "66.61%",
+    "uptimeDay": "43.52%",
+    "uptimeWeek": "66.61%",
+    "uptimeMonth": "66.61%",
+    "uptimeYear": "66.61%",
+    "time": 1147,
+    "timeDay": 1070,
+    "timeWeek": 1147,
+    "timeMonth": 1147,
+    "timeYear": 1147,
     "dailyMinutesDown": {
-      "2022-01-01": 194
+      "2022-01-01": 813
     }
   },
   {
@@ -133,18 +133,16 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "biblio-alefvanoon-xyz",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 433,
     "timeWeek": 418,
     "timeMonth": 418,
     "timeYear": 418,
-    "dailyMinutesDown": {
-      "2022-01-01": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
