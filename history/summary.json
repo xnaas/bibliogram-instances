@@ -23,11 +23,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png",
     "slug": "bibliogram-snopyta-org",
     "status": "up",
-    "uptime": "81.09%",
+    "uptime": "81.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.09%",
-    "uptimeMonth": "81.09%",
-    "uptimeYear": "81.09%",
+    "uptimeWeek": "81.33%",
+    "uptimeMonth": "81.33%",
+    "uptimeYear": "81.33%",
     "time": 1102,
     "timeDay": 923,
     "timeWeek": 1102,
@@ -78,9 +78,9 @@
     "url": "https://insta.trom.tf",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "insta-trom-tf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 512,
     "timeMonth": 512,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-02": 0
+    }
   },
   {
     "name": "bibliogram.hamster.dance",
@@ -97,18 +99,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "bibliogram-hamster-dance",
     "status": "up",
-    "uptime": "97.67%",
-    "uptimeDay": "94.42%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "97.67%",
+    "uptime": "98.03%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.03%",
     "time": 1762,
     "timeDay": 3148,
     "timeWeek": 1762,
     "timeMonth": 1762,
     "timeYear": 1762,
     "dailyMinutesDown": {
-      "2022-01-02": 80,
+      "2022-01-02": 66,
       "2022-01-01": 20
     }
   },
