@@ -1,7 +1,7 @@
 url: https://insta.trom.tf
-status: up
-code: 200
-responseTime: 670
-lastUpdated: 2022-01-07T23:18:28.329Z
+status: down
+code: 502
+responseTime: 357
+lastUpdated: 2022-01-08T00:35:06.993Z
 startTime: Thu Dec 30 2021 21:41:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
