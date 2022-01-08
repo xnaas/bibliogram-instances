@@ -1,7 +1,7 @@
 url: https://bibliogram.hamster.dance
-status: up
-code: 200
-responseTime: 1159
-lastUpdated: 2022-01-07T23:18:29.767Z
+status: down
+code: 502
+responseTime: 616
+lastUpdated: 2022-01-08T14:52:43.293Z
 startTime: Thu Dec 30 2021 21:41:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
