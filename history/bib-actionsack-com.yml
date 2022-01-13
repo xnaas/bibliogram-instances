@@ -1,7 +1,7 @@
 url: https://bib.actionsack.com
-status: up
-code: 200
-responseTime: 286
-lastUpdated: 2022-01-12T23:18:17.849Z
+status: down
+code: 502
+responseTime: 192
+lastUpdated: 2022-01-13T22:42:03.024Z
 startTime: Thu Dec 30 2021 21:41:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
