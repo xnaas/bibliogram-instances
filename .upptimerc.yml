@@ -17,8 +17,8 @@ sites:
   - name: insta.trom.tf
     url: https://insta.trom.tf
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: bibliogram.hamster.dance
-    url: https://bibliogram.hamster.dance
+  - name: bib.riverside.rocks
+    url: https://bib.riverside.rocks
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
   - name: bib.actionsack.com
     url: https://bib.actionsack.com
