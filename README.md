@@ -1,3 +1,8 @@
+# REPO ON HOLD.
+
+For some reason, upptime cannot handle bibliogram. upptime falsely reports 502s
+on most instances randomly throughout the day.
+
 # [📈 Live Status](https://xnaas.github.io/bibliogram-instances): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [xnaas](https://xnaas.info/), powered by [Upptime](https://github.com/upptime/upptime).
